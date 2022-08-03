@@ -1,4 +1,3 @@
-﻿#include <iostream>
 #include "BTree.h"
 #include "ConsolePrinterBTree.h"
 
